@@ -1,0 +1,26 @@
+h1 {
+    font-size: 30px;
+    font-family: Monaco, Courier, monospace;
+    color: #25b928;
+}
+a {
+    font-style: oblique;
+    color: gold;
+}
+
+p {
+    font-style: inherit;
+    color: #1fdc3c;
+}
+
+#text {
+    font-style: italic;
+    color: saddlebrown;
+    font-family: Monaco;
+}
+
+caption{
+    font-size: 28px;
+    font-family: Monaco, Courier, monospace;
+    color: #60d31d;
+}
