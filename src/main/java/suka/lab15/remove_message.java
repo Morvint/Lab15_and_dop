@@ -67,15 +67,6 @@ public class remove_message extends HttpServlet {
                     writer2.close();
                 }
             }
-
-//            File file = new File("C:\\Users\\tv_20\\IdeaProjects\\Lab15\\src\\main\\java\\suka\\lab15\\ads.txt");
-//            FileReader fr = new FileReader(file);
-//            BufferedReader reader = new BufferedReader(fr);
-//            String line = reader.readLine();
-//            while (line != null) {
-//                System.out.println(line);
-//                line = reader.readLine();
-//            }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
